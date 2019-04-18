@@ -1,0 +1,69 @@
+.solid-box{
+    width: 95%;
+    height: 250px;
+    border: solid 5px;
+    margin: 15px auto;
+    display: block;
+}
+
+.purple-rectangle{
+    width: 75px;
+    height: 200px;
+    background: #b942f4;
+    margin: 15px;
+    display: inline-block;
+}
+
+.green-rectangle{
+    width: 425px;
+    height: 225px;
+    background: #26af32;
+    margin: 15px;
+    display: inline-block;
+}
+
+.blue-circle{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 50%;
+    background: #a5d6ff;
+    display: inline-block;
+}
+
+.dotted-box{
+    width: 95%;
+    height: 250px;
+    border: dotted;
+    margin: 15px auto;
+}
+
+.cream-box{
+    width: 90%;
+    height: 75%;
+    background: #fff8d6;
+    box-shadow: 5px 5px 5px #000;
+    margin: 25px auto;
+}
+
+.shadow-box{
+    width: 60%;
+    height: 300px;
+    box-shadow: 3px 5px 5px 3px #aaa;
+    margin: 15px auto;
+}
+
+.text{
+    height: 150px;
+    width: 250px;
+    text-align: center;
+    margin: auto;
+}
+
+.text > h1 {
+    font-size: 30px;
+    letter-spacing: 8px;
+    color: #0022aa;
+    margin-top: 50%;
+    display: inline-block;
+}
