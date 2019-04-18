@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+.header {
+    height: 14.2vh;
+    width: 100%;
+    background: #e0e1e2
+}
+
+.icon-box {
+    height: 10vh;
+    width: 10vh;
+    margin: 2%;
+    background-color: #70a6ff;
+    /* display: inline-block; */
+    position: absolute;
+}
+
+.content {
+    height: 28vh;
+}
+
+.content > h1 {
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 50px;
+}
+
+.bar1 {
+    height: 14.3vh;
+    width: 100%;
+    background: #689cf2;
+}
+
+.bar2 {
+    height: 14.3vh;
+    width: 100%;
+    background: #8af2e4;
+}
+
+.bar3 {
+    height: 14.3vh;
+    width: 100%;
+    background: #d5eab2
+}
+
+.bar4 {
+    height: 14.3vh;
+    width: 100%;
+    background: #f2ef59;
+}
+
+
